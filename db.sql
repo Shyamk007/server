@@ -10,4 +10,4 @@ create table players (
     );
 
 insert into players values(1, "Shyam","tabletennis", "2020-01-01");
-insert into players(playername, sport, dob) values("eklavya", "bedgames", "2020-05-22");
+insert into players(playername, sport, dob) values("eklavya", "volleyball", "2020-05-22");
