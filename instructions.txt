@@ -1,9 +1,0 @@
-dotnet new sln
-dotnet new webapi -n Name
-cd Name
-dotnet add package mysql.data
-dotnet add package Microsoft.AspNetCore.Cors --version 2.20
-dotnet add package Microsoft.EntityFrameworkCore --version 5.0.17 
-dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.17 
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 5.0.17 
-dotnet add package MySql.EntityFrameworkCore --version 5.0.17
